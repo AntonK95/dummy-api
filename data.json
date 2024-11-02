@@ -521,5 +521,247 @@
       "creationAt": "2024-11-01T23:00:57.000Z",
       "updatedAt": "2024-11-01T23:00:57.000Z"
     }
+  },
+  {
+    "id": 28,
+    "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+    "price": 109,
+    "description": "Easy upgrade for faster boot up, shutdown, application load and response. Boosts burst write performance, ideal for typical PC workloads. Read/write speeds up to 535MB/s/450MB/s.",
+    "images": [
+      "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+    ],
+    "creationAt": "2024-11-01T23:00:57.000Z",
+    "updatedAt": "2024-11-01T23:00:57.000Z",
+    "category": {
+      "id": 3,
+      "name": "Electronics",
+      "image": "https://fakestoreapi.com/img/category-electronics.jpg",
+      "creationAt": "2024-11-01T23:00:57.000Z",
+      "updatedAt": "2024-11-01T23:00:57.000Z"
+    },
+    "rating": {
+      "rate": 2.9,
+      "count": 470
+    }
+  },
+  {
+    "id": 29,
+    "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+    "price": 109,
+    "description": "3D NAND flash delivers high transfer speeds with remarkable transfer performance, fast bootup, and SLC Cache Technology for extended lifespan.",
+    "images": [
+      "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg"
+    ],
+    "creationAt": "2024-11-01T23:00:57.000Z",
+    "updatedAt": "2024-11-01T23:00:57.000Z",
+    "category": {
+      "id": 3,
+      "name": "Electronics",
+      "image": "https://fakestoreapi.com/img/category-electronics.jpg",
+      "creationAt": "2024-11-01T23:00:57.000Z",
+      "updatedAt": "2024-11-01T23:00:57.000Z"
+    },
+    "rating": {
+      "rate": 4.8,
+      "count": 319
+    }
+  },
+  {
+    "id": 30,
+    "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+    "price": 114,
+    "description": "Expand your PS4 gaming experience with a sleek design and high capacity drive. Features fast setup and 3-year limited warranty.",
+    "images": [
+      "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg"
+    ],
+    "creationAt": "2024-11-01T23:00:57.000Z",
+    "updatedAt": "2024-11-01T23:00:57.000Z",
+    "category": {
+      "id": 3,
+      "name": "Electronics",
+      "image": "https://fakestoreapi.com/img/category-electronics.jpg",
+      "creationAt": "2024-11-01T23:00:57.000Z",
+      "updatedAt": "2024-11-01T23:00:57.000Z"
+    },
+    "rating": {
+      "rate": 4.8,
+      "count": 400
+    }
+  },
+  {
+    "id": 31,
+    "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+    "price": 599,
+    "description": "21.5 inches Full HD IPS display with Radeon FreeSync technology. Features zero-frame design, ultra-thin build, and 4ms response time.",
+    "images": [
+      "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg"
+    ],
+    "creationAt": "2024-11-01T23:00:57.000Z",
+    "updatedAt": "2024-11-01T23:00:57.000Z",
+    "category": {
+      "id": 3,
+      "name": "Electronics",
+      "image": "https://fakestoreapi.com/img/category-electronics.jpg",
+      "creationAt": "2024-11-01T23:00:57.000Z",
+      "updatedAt": "2024-11-01T23:00:57.000Z"
+    },
+    "rating": {
+      "rate": 2.9,
+      "count": 250
+    }
+  },
+  {
+    "id": 32,
+    "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor",
+    "price": 999.99,
+    "description": "49 inch ultrawide curved gaming monitor with QLED technology, HDR support, 144Hz refresh rate, and 1ms response time.",
+    "images": [
+      "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+    ],
+    "creationAt": "2024-11-01T23:00:57.000Z",
+    "updatedAt": "2024-11-01T23:00:57.000Z",
+    "category": {
+      "id": 3,
+      "name": "Electronics",
+      "image": "https://fakestoreapi.com/img/category-electronics.jpg",
+      "creationAt": "2024-11-01T23:00:57.000Z",
+      "updatedAt": "2024-11-01T23:00:57.000Z"
+    },
+    "rating": {
+      "rate": 2.2,
+      "count": 140
+    }
+  },
+  {
+    "id": 33,
+    "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+    "price": 56.99,
+    "description": "100% Polyester, detachable liner with warm fleece. Zippered hand and chest pockets. Adjustable hood and cuffs for a comfortable fit.",
+    "images": [
+      "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+    ],
+    "creationAt": "2024-11-01T23:00:57.000Z",
+    "updatedAt": "2024-11-01T23:00:57.000Z",
+    "category": {
+      "id": 4,
+      "name": "Women's Clothing",
+      "image": "https://fakestoreapi.com/img/category-womens-clothing.jpg",
+      "creationAt": "2024-11-01T23:00:57.000Z",
+      "updatedAt": "2024-11-01T23:00:57.000Z"
+    },
+    "rating": {
+      "rate": 2.6,
+      "count": 235
+    }
+  },
+  {
+    "id": 34,
+    "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+    "price": 29.95,
+    "description": "Faux leather jacket with removable hood for versatile styling. Durable and stylish, featuring two front pockets and detailed stitching.",
+    "images": [
+      "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
+    ],
+    "creationAt": "2024-11-01T23:00:57.000Z",
+    "updatedAt": "2024-11-01T23:00:57.000Z",
+    "category": {
+      "id": 4,
+      "name": "Women's Clothing",
+      "image": "https://fakestoreapi.com/img/category-womens-clothing.jpg",
+      "creationAt": "2024-11-01T23:00:57.000Z",
+      "updatedAt": "2024-11-01T23:00:57.000Z"
+    },
+    "rating": {
+      "rate": 2.9,
+      "count": 340
+    }
+  },
+  {
+    "id": 35,
+    "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+    "price": 39.99,
+    "description": "Lightweight rain jacket with hood, adjustable drawstrings, button and zipper front closure. Features two side pockets for practicality.",
+    "images": [
+      "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+    ],
+    "creationAt": "2024-11-01T23:00:57.000Z",
+    "updatedAt": "2024-11-01T23:00:57.000Z",
+    "category": {
+      "id": 4,
+      "name": "Women's Clothing",
+      "image": "https://fakestoreapi.com/img/category-womens-clothing.jpg",
+      "creationAt": "2024-11-01T23:00:57.000Z",
+      "updatedAt": "2024-11-01T23:00:57.000Z"
+    },
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    }
+  },
+  {
+    "id": 36,
+    "title": "MBJ Women's Solid Short Sleeve Boat Neck V",
+    "price": 9.85,
+    "description": "95% Rayon 5% Spandex, lightweight fabric with good stretch. Features ribbed sleeves, neckline, and double stitching on hem.",
+    "images": [
+      "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"
+    ],
+    "creationAt": "2024-11-01T23:00:57.000Z",
+    "updatedAt": "2024-11-01T23:00:57.000Z",
+    "category": {
+      "id": 4,
+      "name": "Women's Clothing",
+      "image": "https://fakestoreapi.com/img/category-womens-clothing.jpg",
+      "creationAt": "2024-11-01T23:00:57.000Z",
+      "updatedAt": "2024-11-01T23:00:57.000Z"
+    },
+    "rating": {
+      "rate": 4.7,
+      "count": 130
+    }
+  },
+  {
+    "id": 37,
+    "title": "Opna Women's Short Sleeve Moisture",
+    "price": 7.95,
+    "description": "100% Polyester, moisture-wicking fabric with V-neck collar. Lightweight and breathable design for a sleek, feminine silhouette.",
+    "images": [
+      "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"
+    ],
+    "creationAt": "2024-11-01T23:00:57.000Z",
+    "updatedAt": "2024-11-01T23:00:57.000Z",
+    "category": {
+      "id": 4,
+      "name": "Women's Clothing",
+      "image": "https://fakestoreapi.com/img/category-womens-clothing.jpg",
+      "creationAt": "2024-11-01T23:00:57.000Z",
+      "updatedAt": "2024-11-01T23:00:57.000Z"
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 146
+    }
+  },
+  {
+    "id": 38,
+    "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+    "price": 12.99,
+    "description": "95% Cotton, 5% Spandex. Soft fabric with slight stretch. V-neck, short sleeve, casual design, suitable for various occasions.",
+    "images": [
+      "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"
+    ],
+    "creationAt": "2024-11-01T23:00:57.000Z",
+    "updatedAt": "2024-11-01T23:00:57.000Z",
+    "category": {
+      "id": 4,
+      "name": "Women's Clothing",
+      "image": "https://fakestoreapi.com/img/category-womens-clothing.jpg",
+      "creationAt": "2024-11-01T23:00:57.000Z",
+      "updatedAt": "2024-11-01T23:00:57.000Z"
+    },
+    "rating": {
+      "rate": 3.6,
+      "count": 145
+    }
   }
 ]
